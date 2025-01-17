@@ -39,3 +39,18 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/breast-tumor-detection.git
    cd breast-tumor-detection
+
+## Model Training
+The model was trained using the BUSI dataset. Preprocessing steps included resizing images to 299x299 pixels and normalizing them to match the input requirements of Inception-ResNet-v2. For detailed training procedures and model configurations, refer to the training_notebook.ipynb included in this repository.
+
+## Contributing
+Contributions are what make the open-source community such a fantastic place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+## Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+## Contact
+email: lakshya13004@gmail.com
